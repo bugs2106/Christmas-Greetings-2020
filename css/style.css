@@ -23,7 +23,7 @@ body{
 }
 
 .box .tree.tree1{
-  background: url('/images/tree1.png');
+  background: url('images/tree1.png');
   background-repeat: repeat-x;
   animation: animate 15s linear infinite;
   z-index: 3;
